@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/dbreto1users
+    username: root
+    password: MysqlRoot2022
+  jpa:
+    hibernate:
+      ddl-auto: update
